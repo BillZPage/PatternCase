@@ -194,7 +194,15 @@
 				>
 			</File>
 			<File
+				RelativePath=".\facade.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\factory.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\flyweight.cpp"
 				>
 			</File>
 			<File
@@ -203,6 +211,10 @@
 			</File>
 			<File
 				RelativePath=".\prototype.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\proxy.cpp"
 				>
 			</File>
 			<File

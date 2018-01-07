@@ -174,11 +174,23 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
+				RelativePath=".\adapter.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\bridge.cpp"
 				>
 			</File>
 			<File
 				RelativePath=".\builder.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\composite.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\decorator.cpp"
 				>
 			</File>
 			<File
